@@ -1,0 +1,9 @@
+flax==0.8.3
+jax==0.4.28
+matplotlib==3.9.2
+numpy==1.26.4
+optax==0.2.2
+phiflow==3.0.1
+scipy==1.13.1
+torch==2.4.1
+tqdm==4.66.5
