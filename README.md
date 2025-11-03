@@ -48,6 +48,11 @@ If you use this code in your research, please cite:
 }
 ```
 
+## Funding 
+
+This project was completed with support from the U.S. Department of Energy, Advanced Scientific Computing Research program, under the Scalable, Efficient and Accelerated Causal Reasoning Operators, Graphs and Spikes for Earth and Embedded Systems (SEA-CROGS) project (Project No. 80278) and under the Uncertainty
+Quantification for Multifidelity Operator Learning (MOLUcQ) project (Project No. 81739). The computational work was performed using PNNL Institutional Computing at Pacific Northwest National Laboratory. 
+
 ---
 
 ## DISCLAIMER
