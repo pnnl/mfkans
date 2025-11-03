@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Howard"
+  given-names: "Amanda"
+  orcid: "https://orcid.org/0000-0002-6411-6198"
+- family-names: "Jacob"
+  given-names: "Bruno"
+  orcid: "https://orcid.org/0009-0001-5361-3105"
+- family-names: "Stinis"
+  given-names: "Panos"
+  orcid: "https://orcid.org/0000-0002-9928-5637"
+title: "Multifidelity KANs"
+version: 1.0.0
+date-released: 2025-11-03
+url: "https://github.com/pnnl/mfkans"
+preferred-citation:
+  type: article
+  authors:
+- family-names: "Howard"
+  given-names: "Amanda"
+  orcid: "https://orcid.org/0000-0002-6411-6198"
+- family-names: "Jacob"
+  given-names: "Bruno"
+  orcid: "https://orcid.org/0009-0001-5361-3105"
+- family-names: "Stinis"
+  given-names: "Panos"
+  orcid: "https://orcid.org/0000-0002-9928-5637"
+  doi: "10.1088/2632-2153/adf702"
+  journal: "Machine Learning: Science and Technology"
+  start: 035038 # First page number
+  title: "Multifidelity Kolmogorov--Arnold networks"
+  volume: 6
+  year: 2025
