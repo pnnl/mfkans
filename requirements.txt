@@ -5,5 +5,5 @@ numpy==1.26.4
 optax==0.2.2
 phiflow==3.0.1
 scipy==1.13.1
-torch==2.4.1
+torch==2.13.0
 tqdm==4.66.5
